@@ -10,7 +10,7 @@ import totem
 PROFILE_FILE = "profile.txt"
 
 def main(page: ft.Page):
-    page.title = "Launcher"
+    page.title = "Totem Lite"
     page.bgcolor = ft.colors.BLACK
     page.window.resizable = False
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
@@ -195,7 +195,8 @@ def main(page: ft.Page):
             page.visible = False
             page.update()
 
-            cmd = [sys.executable, "--run-totem"]
+            cmd = [sys.executable, os.path.abspath(__file__), "--run-totem"]
+
 
             CREATE_NEW_CONSOLE = 0x00000010
             startupinfo = subprocess.STARTUPINFO()
