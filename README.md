@@ -1,20 +1,18 @@
 
 <div align="center">
-<a href="https://github.com/eli64s/readme-ai">
-    <img
-      src="https://github.com/Suggika/Totem/blob/c202f05b97acbe5359f92e62811295cb5b0003f1/img/logo" 
+  <a href="https://github.com/eli64s/readme-ai">
+    <img src="https://github.com/Suggika/Totem/blob/024ca607acf124bd7d8c6f8abd5de0fe312f3f2d/img/logo.png" />
   </a>
 
-<p align="center">
-  <b>Totem Lite - бесплатно и стильно</b>
-</p>
-<p align="center">
-<a href="https://opensource.org/license/mit/">
-    <img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=36454F" alt="MIT License">
-  </a>
+  <p><b>Totem Lite – бесплатно и стильно</b></p>
 
-</p>
+  <p>
+    <a href="https://opensource.org/license/mit/">
+      <img src="https://img.shields.io/github/license/eli64s/readme-ai?logo=opensourceinitiative&logoColor=white&label=License&color=36454F" alt="MIT License">
+    </a>
+  </p>
 </div>
+
 
 > [!IMPORTANT]
 > Multi-Tool создан исключительно в ознакомительных целях, автор не несёт ответственности за ваши действия.
@@ -45,7 +43,7 @@
 
 ## **Установка**
 1. Запустить [**Suggika Installer**](https://github.com/Suggika/Suggika-Installer) и дождатсья завершения установки зависимостей
-2. Установить [**Этот EXE**](https://www.mediafire.com/file/u2zx9mq3i0ir8lt/launcher.exe/file)
+2. Установить [**Этот EXE**](https://www.mediafire.com/file/xvjnou5txepjdg4/Totem_Lite.exe/file)
 
 ## **Если хочешь поддержать проект поставь звезды на этот репозиторий, поможешь продвижению проекта :)**
 ## По всем вопросам писать в Telegram @suggika
