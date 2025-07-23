@@ -2,8 +2,7 @@
 <div align="center">
   <a href="https://github.com/eli64s/readme-ai">
     <img
-      src="https://github.com/Suggika/Totem/blob/c202f05b97acbe5359f92e62811295cb5b0003f1/img/logo.png" 
-      alt="ReadmeAI Logo" width="60%">
+      src="https://github.com/Suggika/Totem/blob/c202f05b97acbe5359f92e62811295cb5b0003f1/img/logo" 
   </a>
 </div>
 
@@ -31,7 +30,6 @@
 <a href="https://github.com/eli64s/readme-ai">
     <img
       src="https://github.com/Suggika/Totem/blob/b4ee02c70241f8e47fc602d1191e7c46ccf05c7e/img/Untitled2.jpg" 
-      alt="ReadmeAI Logo" width="60%">
   </a>
 
 
