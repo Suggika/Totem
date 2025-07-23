@@ -33,15 +33,15 @@
 
 
 # **Главное меню**
+<div align="center">
 <a href="https://github.com/eli64s/readme-ai">
     <img
       src="https://github.com/Suggika/Totem/blob/b4ee02c70241f8e47fc602d1191e7c46ccf05c7e/img/Untitled.jpg" 
-      alt="ReadmeAI Logo" width="60%">
   </a>
 
 
-  # **Новая версия - 1.6**
-</div>
+ # **Новая версия - 1.6**
+
 
 ## **Установка**
 1. Запустить [**Suggika Installer**](https://github.com/Suggika/Suggika-Installer) и дождатсья завершения установки зависимостей
