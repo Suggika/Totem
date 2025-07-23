@@ -1,10 +1,9 @@
 
 <div align="center">
-  <a href="https://github.com/eli64s/readme-ai">
+<a href="https://github.com/eli64s/readme-ai">
     <img
       src="https://github.com/Suggika/Totem/blob/c202f05b97acbe5359f92e62811295cb5b0003f1/img/logo" 
   </a>
-</div>
 
 <p align="center">
   <b>Totem Lite - бесплатно и стильно</b>
